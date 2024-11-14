@@ -1,7 +1,7 @@
 <H3>Name : R Guru Prasad</H3>
 <H3>Register no. : 212222240033</H3>
-<H3>Date</H3>
 <H3>Experiment No. 2 </H3>
+<H3>Date</H3>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
